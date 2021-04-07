@@ -1,0 +1,6 @@
+J:\CIS 199\Lab7\Lab7\bin\Debug\Lab7.exe.config
+J:\CIS 199\Lab7\Lab7\bin\Debug\Lab7.exe
+J:\CIS 199\Lab7\Lab7\bin\Debug\Lab7.pdb
+J:\CIS 199\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+J:\CIS 199\Lab7\Lab7\obj\Debug\Lab7.exe
+J:\CIS 199\Lab7\Lab7\obj\Debug\Lab7.pdb
